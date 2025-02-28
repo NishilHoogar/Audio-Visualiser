@@ -8,7 +8,7 @@ This is a **simple static website** that allows users to **upload and play audio
 - Works with **MP3, WAV, and other common audio formats**.
 
 ## 🔗 Live Demo
-Check out the live site here: [Audio Visualiser](https://audioxvisualiser.netlify.app/)
+Check out the live site here: [Audio Visualiser](https://nishilhoogar.github.io/Audio-Visualiser/)
 
 ## 🛠️ How It Works
 1. Click on the **"Choose File"** button to select an audio file.
