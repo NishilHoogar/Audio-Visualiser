@@ -1,4 +1,4 @@
-# 🎵 Audio File Player (GitHub Pages Hosted)
+# 🎵 Audio File Player 
 
 This is a **simple static website** that allows users to **upload and play audio files** directly in their browser. The site is hosted on **GitHub Pages** and works entirely on the client side using JavaScript.
 
